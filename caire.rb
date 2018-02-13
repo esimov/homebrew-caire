@@ -1,10 +1,10 @@
-CAIRE_VERSION="1.0.1"
+CAIRE_VERSION="1.0.2"
 
 class Caire < Formula
   desc "Content aware image resize library"
   homepage "https://github.com/esimov/caire"
   url "#{homepage}/releases/download/v#{CAIRE_VERSION}/caire-#{CAIRE_VERSION}-darwin-amd64.zip"
-  sha256 "f2e0f63319e6cbdb8ad696df2d4771ef6220c4a01aa033f5652d20cb166ee390"
+  sha256 "ccd9f187d83873ede55240629e45bc7380ba6bcd747ef86e5cbae11268844319"
 
   depends_on "go" => :build
 
