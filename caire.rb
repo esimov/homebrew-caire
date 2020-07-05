@@ -1,4 +1,4 @@
-CAIRE_VERSION="1.2.5"
+CAIRE_VERSION="1.2.6"
 
 class Caire < Formula
   desc "Content aware image resize library"
